@@ -1,0 +1,6 @@
+{
+  "name": "Pre-Check Crisi - Test Sostenibilità",
+  "description": "Pre-Check Crisi: Simulatore anonimo e gratuito del Test Pratico di Sostenibilità Economica (Codice della Crisi d'Impresa - CCII) per imprese e consulenti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
